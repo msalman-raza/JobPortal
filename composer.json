@@ -1,0 +1,11 @@
+{
+    "name": "msalman-raza/job-portal",
+    "type": "project",
+    "authors": [
+        {
+            "name": "salman raza",
+            "email": "salman@salmanraza.com"
+        }
+    ],
+    "require": {}
+}
